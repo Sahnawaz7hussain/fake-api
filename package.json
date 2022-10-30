@@ -1,0 +1,20 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 3500"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahnawaz7hussain/fake-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahnawaz7hussain/fake-api/issues"
+  },
+  "homepage": "https://github.com/Sahnawaz7hussain/fake-api#readme"
+}
