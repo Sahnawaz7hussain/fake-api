@@ -454,7 +454,7 @@
       "about": "ICICI Bank is a leading private sector bank in India. The Bank’s consolidated total assets stood at Rs. 14.76 trillion at September 30, 2020. ICICI Bank currently has a network of 5,288 branches and 13,875 ATMs across India.",
       "location": "Mumbai",
       "sector": "private",
-      "companytype": "Banking",
+      "companytype": "banking",
       "jobs": [
         {
           "jobtitle": "Probationary Officers' Programme",
@@ -503,7 +503,7 @@
       "about": "Incedo is a Bay Area headquartered, consulting, analytics, and technology services firm. We work across the Financial Services, Life Science, and Communication Engineering sectors, enabling our clients to maximize business impact through emerging technologies.",
       "location": "Delhi",
       "sector": "private",
-      "companytype": "IT Services & Consulting",
+      "companytype": "itservices&consulting",
       "jobs": [
         {
           "jobtitle": "C++ programmer",
@@ -554,7 +554,7 @@
       "about": "Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking.",
       "location": "Bangalore",
       "sector": "public",
-      "companytype": "e-commerce",
+      "companytype": "ecommerce",
       "jobs": [
         {
           "jobtitle": "LMAQ - L3 Bangalore",
@@ -647,7 +647,7 @@
       "about": "FIS is a global leader in financial services technology, with a focus on retail and institutional banking, payments, asset and wealth management, risk and compliance, and outsourcing solutions.",
       "location": "Jacksonville",
       "sector": "private",
-      "companytype": "IT Services & Consulting",
+      "companytype": "itservices&consulting",
       "jobs": [
         {
           "jobtitle": "Lead Associate - It Maintenance",
@@ -706,7 +706,7 @@
       "about": "Capgemini is a global leader in partnering with companies to transform and manage their business by harnessing the power of technology.",
       "location": "Mumbai",
       "sector": "public",
-      "companytype": "IT Services & Consulting",
+      "companytype": "itservices&consulting",
       "jobs": [
         {
           "jobtitle": "Talent Acquisition Professional",
@@ -771,7 +771,7 @@
       "about": "Luxoft is the design, data, and development arm of DXC Technology, providing bespoke, end-to-end technology solutions for mission-critical systems, products, and services.",
       "location": "Mumbai",
       "sector": "private",
-      "companytype": "IT Services & Consulting",
+      "companytype": "itservices&consulting",
       "jobs": [
         {
           "jobtitle": "PMA Intern",
@@ -820,7 +820,7 @@
       "about": "Applied Materials is the leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. Our expertise in modifying materials at atomic levels and on an industrial scale enables.",
       "location": "Mumbai",
       "sector": "private",
-      "companytype": "Electronics Manufacturing",
+      "companytype": "electronicsmanufacturing",
       "jobs": [
         {
           "jobtitle": "application Engineer ||",
@@ -885,7 +885,7 @@
       "about": "Change is constant. At Genpact, we’re the ones driving it. We think with design, dream in digital, and solve problems with data and analytics. We obsess over operations and focus on the details – all 78,000+ of us. And you could be one of us.",
       "location": "Delhi",
       "sector": "Public",
-      "companytype": "BPO / Call Centre",
+      "companytype": "bpocallcentre",
       "jobs": [
         {
           "jobtitle": "Customer Care Executive",
@@ -934,7 +934,7 @@
       "about": "ICICI Bank is a leading private sector bank in India. The Bank’s consolidated total assets stood at Rs. 14.76 trillion at September 30, 2020. ICICI Bank currently has a network of 5,288 branches and 13,875 ATMs across India.",
       "location": "Pune",
       "sector": "Public",
-      "companytype": "IT Services & Consulting",
+      "companytype": "itservices&consulting",
       "jobs": [
         {
           "jobtitle": "Appian Developer",
@@ -1028,7 +1028,7 @@
       "about": "At Cognizant, we give organizations the insights to anticipate what customers want and act instantly to deliver on those demands. So they can achieve the goal of every modern business: staying one step ahead of a fast-changing world.",
       "location": "Chennai",
       "sector": "private",
-      "companytype": "BPO / Call Centre",
+      "companytype": "bpocallcentre",
       "jobs": [
         {
           "jobtitle": "Hiring For Fresher - Chennai",
