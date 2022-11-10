@@ -442,6 +442,7 @@
   ],
   "companies": [
     {
+      "id": 1,
       "image": "https://img.naukimg.com/logo_images/groups/v2/44512.gif",
       "title": "ICICI Bank",
       "title_url": "https://www.naukri.com/icici-bank-overview-44512",
@@ -486,6 +487,7 @@
       ]
     },
     {
+      "id": 2,
       "image": "https://img.naukimg.com/logo_images/groups/v2/1527726.gif",
       "title": "Incedo",
       "title_url": "https://www.naukri.com/incedo-overview-1527726",
@@ -535,6 +537,7 @@
       ]
     },
     {
+      "id": 3,
       "image": "https://img.naukimg.com/logo_images/groups/v1/398058.gif",
       "title": "Amazon",
       "title_url": "https://www.naukri.com/wns-global-services-overview-4264",
@@ -586,6 +589,7 @@
       ]
     },
     {
+      "id": 4,
       "image": "https://img.naukimg.com/logo_images/groups/v2/419316.gif",
       "title": "Synechron",
       "title_url": "https://www.naukri.com/synechron-overview-419316",
@@ -630,6 +634,7 @@
       ]
     },
     {
+      "id": 5,
       "image": "https://img.naukimg.com/logo_images/groups/v2/21746.gif",
       "title": "FIS",
       "title_url": "https://www.naukri.com/fis-overview-21746",
@@ -694,6 +699,7 @@
       ]
     },
     {
+      "id": 6,
       "image": "https://img.naukimg.com/logo_images/groups/v2/1288.gif",
       "title": "Capgemini",
       "title_url": "https://www.naukri.com/capgemini-overview-1288",
@@ -753,6 +759,7 @@
       ]
     },
     {
+      "id": 7,
       "image": "https://img.naukimg.com/logo_images/groups/v2/1744734.gif",
       "title": "Luxoft",
       "title_url": "https://www.naukri.com/luxoft-overview-1744734",
@@ -803,6 +810,7 @@
       ]
     },
     {
+      "id": 8,
       "image": "https://img.naukimg.com/logo_images/groups/v2/1574056.gif",
       "title": "Applied Materials",
       "title_url": "https://www.naukri.com/applied-materials-overview-1574056",
@@ -867,6 +875,7 @@
       ]
     },
     {
+      "id": 9,
       "image": "https://img.naukimg.com/logo_images/groups/v2/42932.gif",
       "title": "Genpact",
       "title_url": "https://www.naukri.com/genpact-overview-42932",
@@ -917,6 +926,7 @@
       ]
     },
     {
+      "id": 10,
       "image": "https://img.naukimg.com/logo_images/groups/v2/3835862.gif",
       "title": "Persistent",
       "title_url": "https://www.naukri.com/persistent-overview-3835862",
@@ -966,6 +976,7 @@
       ]
     },
     {
+      "id": 11,
       "image": "https://img.naukimg.com/logo_images/groups/v2/4614431.gif",
       "title": "Netcracker",
       "title_url": "https://www.naukri.com/netcracker-overview-4614431",
@@ -1010,6 +1021,7 @@
       ]
     },
     {
+      "id": 12,
       "image": "https://img.naukimg.com/logo_images/groups/v2/4156.gif",
       "title": "Cognizant",
       "title_url": "https://www.naukri.com/cognizant-overview-4156",
