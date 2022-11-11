@@ -505,7 +505,7 @@
       "about": "Incedo is a Bay Area headquartered, consulting, analytics, and technology services firm. We work across the Financial Services, Life Science, and Communication Engineering sectors, enabling our clients to maximize business impact through emerging technologies.",
       "location": "Delhi",
       "sector": "private",
-      "companytype": "itservices&consulting",
+      "companytype": "itservicesandconsulting",
       "jobs": [
         {
           "jobtitle": "C++ programmer",
@@ -602,7 +602,7 @@
       "about": "Synechron is a leading digital transformation consulting firm focused on the financial services industry and is working to Accelerate Digital initiatives for banks, asset managers, and insurance companies around the world.",
       "location": "New York, UnitedStates",
       "sector": "private",
-      "companytype": "Financial Services",
+      "companytype": "financialservices",
       "jobs": [
         {
           "jobtitle": "Dot Net Developer",
@@ -652,7 +652,7 @@
       "about": "FIS is a global leader in financial services technology, with a focus on retail and institutional banking, payments, asset and wealth management, risk and compliance, and outsourcing solutions.",
       "location": "Jacksonville",
       "sector": "private",
-      "companytype": "itservices&consulting",
+      "companytype": "itservicesandconsulting",
       "jobs": [
         {
           "jobtitle": "Lead Associate - It Maintenance",
@@ -712,7 +712,7 @@
       "about": "Capgemini is a global leader in partnering with companies to transform and manage their business by harnessing the power of technology.",
       "location": "Mumbai",
       "sector": "public",
-      "companytype": "itservices&consulting",
+      "companytype": "itservicesandconsulting",
       "jobs": [
         {
           "jobtitle": "Talent Acquisition Professional",
@@ -778,7 +778,7 @@
       "about": "Luxoft is the design, data, and development arm of DXC Technology, providing bespoke, end-to-end technology solutions for mission-critical systems, products, and services.",
       "location": "Mumbai",
       "sector": "private",
-      "companytype": "itservices&consulting",
+      "companytype": "itservicesandconsulting",
       "jobs": [
         {
           "jobtitle": "PMA Intern",
@@ -944,7 +944,7 @@
       "about": "ICICI Bank is a leading private sector bank in India. The Bank’s consolidated total assets stood at Rs. 14.76 trillion at September 30, 2020. ICICI Bank currently has a network of 5,288 branches and 13,875 ATMs across India.",
       "location": "Pune",
       "sector": "Public",
-      "companytype": "itservices&consulting",
+      "companytype": "itservicesandconsulting",
       "jobs": [
         {
           "jobtitle": "Appian Developer",
@@ -989,7 +989,7 @@
       "about": "We are a forward-looking software company, offering mission-critical solutions to service providers around the globe. As a wholly owned subsidiary of NEC Corporation.",
       "location": "Mumbai",
       "sector": "private",
-      "companytype": "IT Services & Consulting",
+      "companytype": "itservicesandconsulting",
       "jobs": [
         {
           "jobtitle": "senio Software Enginner - Java",
