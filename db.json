@@ -1071,5 +1071,241 @@
         }
       ]
     }
+  ],
+
+  "recommendedjobs": [
+    {
+      "id": 1,
+      "title": "Full Stack Developer - B2B SaaS (Work From Home)",
+      "companies": "Oncehub Technologies",
+      "rating": "4.5",
+      "experience": "0-5 Years",
+      "package": "Not Disclosed",
+      "location": "Noida",
+      "summary": "Some Carriers Opens More (Global) Doors Than Others. This can be your chance to get a good job at here.",
+      "skills": "React.js - Node.js - Redux - JavaScript - Angular - Communication",
+      "posted": "1 DAY AGO"
+    },
+
+    {
+      "id": 2,
+      "title": "React.js Developer - HTML/CSS",
+      "companies": "Venhan Technologies Pvt. Ltd.",
+      "rating": "4.0",
+      "experience": "0-2 Years",
+      "package": "Not Disclosed",
+      "location": "Hyderabad/Secunderabad",
+      "summary": "Excellent opportunity for Freshers Good written, verbal communication and Problem-solving skills.",
+      "skills": "React.js - REST APIs - HTML - JavaScript - Enzyme - REACT - Communication",
+      "posted": "1 DAY AGO"
+    },
+
+    {
+      "id": 3,
+      "title": "Angular Frontend Developer",
+      "companies": "Fretron",
+      "rating": "4.0",
+      "experience": "0-5 Years",
+      "package": "4LPA - 9LPA",
+      "location": "New-Delhi, Gurgaon",
+      "summary": "Write functional requirement documents and guides Work experience in the saas-based product organisation",
+      "skills": "React.js - Node.js - Front-End - Redux - JavaScript - Angular - Analytics",
+      "posted": "1 DAY AGO"
+    },
+
+    {
+      "id": 4,
+      "title": "Hiring Freshers - VUE JS Developer",
+      "companies": "Vidya Mantra Edusystems",
+      "rating": "3.9",
+      "experience": "0-3 Years",
+      "package": "Not Disclosed",
+      "location": "Noida (NSEZ)",
+      "summary": "Proficient with the JavaScript language and its modern ES6+ syntax and features Proficient with Vue.js framewoek.",
+      "skills": "functional programming - object - oriented programming - Vue Router - RESTful APIs - Vuex -Vue js framework",
+      "posted": "1 DAY AGO"
+    },
+
+    {
+      "id": 5,
+      "title": "Software Developer",
+      "companies": "Brightsun Infotech Private Limited",
+      "rating": "3.6",
+      "experience": "0-4 Years",
+      "package": "2LPA - 7LPA",
+      "location": "Gurgaon/Gurugram",
+      "summary": "IMMEDIATE REQUIREMENT Fresher or Minimum 1 year hands on experience in ASP.Net MVC, Entity Framework.",
+      "skills": ".Net - MVC - software developer - SQL2008 - MVC - 4 - XML - Json - Web APIs",
+      "posted": "1 DAY AGO"
+    },
+
+    {
+      "id": 6,
+      "title": "Dot Net Developer",
+      "companies": "STW Services",
+      "rating": "4.3",
+      "experience": "0-4 Years",
+      "package": "3.5LPA - 8.5LPA",
+      "location": "Noida",
+      "summary": "Job description Contribute significantly to the process of developing high quality, enterprise level web app.",
+      "skills": "C# - Node.js - asp.net web api - MVC - Web Api - entity framework - SQL Server - jquery ui",
+      "posted": "1 DAY AGO"
+    },
+
+    {
+      "id": 7,
+      "title": "Software Test Engineer",
+      "companies": "Thoughts2binary Consulting And Solutions Llp",
+      "rating": "4.6",
+      "experience": "0-2 Years",
+      "package": "Not Disclosed",
+      "location": "Temp. WFH - Gurgoan",
+      "summary": "Software Test Engineer: Urgent RequirementWe're seeking Quality Assurance Engineer who thinks outside the boundaries.",
+      "skills": "Regression Testing - Manual Testing - Functional Testing - Web Application Testing - API Testing",
+      "posted": "2 DAYS AGO"
+    },
+
+    {
+      "id": 8,
+      "title": "Frontend Developer Fresher",
+      "companies": "S7works",
+      "rating": "4.5",
+      "experience": "0-2 Years",
+      "package": "2LPA - 7LPA",
+      "location": "Permanent Remote",
+      "summary": "Experience building any of these features: Personalization, Complex user management and security management.",
+      "skills": "Flutter - React.js - RESTful APIs - EcmaScript - Immutable js - React Native - Flux - JSON",
+      "posted": "5 DAYS AGO"
+    },
+
+    {
+      "id": 9,
+      "title": "Software Developer",
+      "companies": "Grandsahara People Skills",
+      "rating": "4.7",
+      "experience": "0-5 Years",
+      "package": "5LPA - 15LPA",
+      "location": "Hyderabad",
+      "summary": "Good in asp.NET, html, css, javascript, c#/.NET, wcf and web services, sql server, stored procedures.",
+      "skills": "Software Services - Technology - C++ - IT - Software Developer - C# - C - Networking",
+      "posted": "4 DAYS AGO"
+    },
+
+    {
+      "id": 10,
+      "title": "UI / UX and Graphic Designer",
+      "companies": "RAKT INNOVATIONS",
+      "rating": "4.4",
+      "experience": "0-5 Years",
+      "package": "3LPA - 8LPA",
+      "location": "Permanent Remote",
+      "summary": "We are looking for an UI / UX Designer with experience in creating responsive and mobile friendly themes.",
+      "skills": "Photoshop - React - JavaScript - Figma - Illustrator - Zeplin - Angular - GIT",
+      "posted": "4 DAYS AGO"
+    },
+
+    {
+      "id": 11,
+      "title": "Software Developer",
+      "companies": "Samara It Systems",
+      "rating": "4.1",
+      "experience": "0-5 Years",
+      "package": "5LPA - 15LPA",
+      "location": "Temp. WFH - Pune",
+      "summary": "Training users Good communication skills both written and verbal.",
+      "skills": "Software Quality Assurance - Software Developer - Software Services - Technology - Verbal",
+      "posted": "4 DAYS AGO"
+    },
+
+    {
+      "id": 12,
+      "title": "Virtual Drive For Software Engineer(Freshers)",
+      "companies": "VN2 Solutions",
+      "rating": "4.5",
+      "experience": "0-2 Years",
+      "package": "4LPA - 9LPA",
+      "location": "Hyderabad",
+      "summary": "Any graduation with 2015, 2016 2017, 2018 2019 pass outs only apply And wants to join as fresher as well.",
+      "skills": "Automation Tools - Selenium - javascript - Python - Java - Oracle - Presentation",
+      "posted": "2 DAYS AGO"
+    },
+
+    {
+      "id": 13,
+      "title": "Software Developer, Cloud Support",
+      "companies": "Laxmi Infotech",
+      "rating": "3.8",
+      "experience": "0-5 Years",
+      "package": "3.5LPA - 8.5LPA",
+      "location": "Chennai/Delhi",
+      "summary": "Experience: 0 to 4 years Qualification:B.SC, B.Tech/BE/MCA Skills in one or more of JavaScript, CSS, Web apis.",
+      "skills": "Java - Azure - Software Development - QA Testing - Cloud Computing - C - JQuery - Java net",
+      "posted": "3 DAYS AGO"
+    },
+
+    {
+      "id": 14,
+      "title": "Hiring SAP ABAP Freshers (40 Positions)",
+      "companies": "ZETTAMINE LABS PRIVATE LIMITEDZETTAMINE LABS PRIVATE LIMITED",
+      "rating": "4.0",
+      "experience": "0-5 Years",
+      "package": "Not Disclosed",
+      "location": "Kolkata",
+      "summary": "Qualification : B Tech / BE / MSc / MCAMust be willing to relocate to any locationWork Experience: Not Required.",
+      "skills": "Java - C++ - C - MySQL - Javascript - IT Skills - Python - SAP",
+      "posted": "3 DAYS AGO"
+    },
+
+    {
+      "id": 15,
+      "title": "Data Tester / ETL Tester)",
+      "companies": "RSB Systems",
+      "rating": "3.9",
+      "experience": "0-4 Years",
+      "package": "6LPA - 15LPA",
+      "location": "Gurgoan/Gurugram",
+      "summary": "Good communication skills with a confident personality so that can gather requirement from onsite team as w...",
+      "skills": "Data Testing - IT Skills - Java - Testing - Quality Assurance - Selenium - XML - ROLAP",
+      "posted": "1 DAY AGO"
+    },
+
+    {
+      "id": 16,
+      "title": "Software Tester",
+      "companies": "NexThoughts Software",
+      "rating": "3.9",
+      "experience": "0-3 Years",
+      "package": "2.5LPA - 7.5LPA",
+      "location": "Permanent Remote",
+      "summary": "Strong knowledge of software QA methodologies, tools and processes Automation testing expertise [Java + Sel..",
+      "skills": "MYSQL - Manual Testing - Selenium - SQL Database - [Java + Selenium] - Automation testing",
+      "posted": "3 DAYS AGO"
+    },
+
+    {
+      "id": 17,
+      "title": "Web/Graphic designer (remote/ Work from Home)",
+      "companies": "TalkValley (MentorStudents.org)",
+      "rating": "5.0",
+      "experience": "0-5 Years",
+      "package": "4LPA - 8LPA",
+      "location": "Hyderabad",
+      "summary": "This is a part-time positionExpertise in Photoshop or Illustrator (REQUIRED skill) Experience in designing ...",
+      "skills": "Photoshop - Illustrator - Figma - Adobe XD - WordPress - Adobe Creative Suite",
+      "posted": "3 DAYS AGO"
+    },
+
+    {
+      "id": 18,
+      "title": "Full Stack Developer - B2B SaaS (Work From Home)",
+      "companies": "Oncehub Technologies",
+      "rating": "4.5",
+      "experience": "0-5 Years",
+      "package": "Not Disclosed",
+      "location": "Noida",
+      "summary": "Some Carriers Opens More (Global) Doors Than Others. This can be your chance to get a good job at here.",
+      "skills": "React.js - Node.js - Redux - JavaScript - Angular - Communication",
+      "posted": "1 DAY AGO"
+    }
   ]
 }
